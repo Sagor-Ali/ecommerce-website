@@ -1,0 +1,15 @@
+.slider-style{
+    padding-top: 120px;
+    padding-left: 120px;
+}
+.slider-style button{
+    background-color: #000;
+    border: none;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+.slider-style a{
+ color: #fff;
+ font-size: 18px;
+ text-decoration: none;
+}
